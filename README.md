@@ -37,3 +37,11 @@ Currently working on projects involving language processing pipelines and data h
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 # Activity
+<div align="center">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Delasi-Richards&hide=contribs,stars&show_icons=true&theme=transparent">
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delasi-Richards&theme=transparent">
+  </div>
+</div>
