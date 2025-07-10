@@ -35,8 +35,12 @@ Currently working on projects involving language processing pipelines and data h
 
 # Activity
 <div align="center" styles="margin:10">
-    <img src="https://github-profile-stats-from-anuraghaz.vercel.app/api?username=Delasi-Richards&theme=transparent&show_icons=true&hide=stars&show=prs_merged,prs_merged_percentage&card_width=600&rank_icon=github" height="500px" />
+    <img src="https://github-profile-stats-from-anuraghaz.vercel.app/api?username=Delasi-Richards&theme=transparent&show_icons=true&hide=stars&show=prs_merged,prs_merged_percentage&card_width=600&rank_icon=github" />
 </div>
 <div align="center" styles="margin:10">
-    <img src="https://github-profile-stats-from-anuraghaz.vercel.app/api/top-langs/?username=Delasi-Richards&theme=transparent&layout=compact&card_width=300&size_weight=0.5&count_weight=0.5" height="500px" />
+    <img src="https://github-profile-stats-from-anuraghaz.vercel.app/api/top-langs/?username=Delasi-Richards&theme=transparent&layout=compact&card_width=300&size_weight=0.5&count_weight=0.5" />
 </div>
+<!-- <div align="center" styles="margin:10">
+    <img src="https://streak-stats.demolab.com?user=Delasi-Richards&theme=transparent&short_numbers=true&date_format=j%20M%5B%20Y%5D" />
+</div> -->
+
