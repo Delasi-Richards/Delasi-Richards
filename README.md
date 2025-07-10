@@ -37,7 +37,9 @@ Currently working on projects involving language processing pipelines and data h
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 # Activity
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Delasi-Richards&theme=transparent" height="300px" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Delasi-Richards&theme=transparent" height="300px" />
+<div align="center" styles="margin:10">
+    <img src="https://github-profile-stats-from-anuraghaz.vercel.app/api?username=Delasi-Richards&theme=transparent&show_icons=true&hide=stars&show=prs_merged,prs_merged_percentage&card_width=600&rank_icon=github" height="500px" />
+</div>
+<div align="center" styles="margin:10">
+    <img src="https://github-profile-stats-from-anuraghaz.vercel.app/api/top-langs/?username=Delasi-Richards&theme=transparent&layout=compact&card_width=300&size_weight=0.5&count_weight=0.5" height="500px" />
 </div>
