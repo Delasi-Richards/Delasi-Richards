@@ -38,10 +38,6 @@ Currently working on projects involving language processing pipelines and data h
 
 # Activity
 <div align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Delasi-Richards&hide=contribs,stars&show_icons=true&theme=transparent">
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delasi-Richards&theme=transparent">
-  </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Delasi-Richards&hide=contribs,stars&show_icons=true&theme=transparent&disable_animations=true" height=300em>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delasi-Richards&theme=transparent&layout=donut&disable_animations=true" height=300em>
 </div>
