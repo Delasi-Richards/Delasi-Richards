@@ -1,5 +1,5 @@
 # About
-I am a software engineering with experience in web development, mobile application development and scripting.
+I am a software engineer with experience in web development, mobile application development and scripting.
 Currently working on projects involving language processing pipelines and data handling.
 
 # Socials
