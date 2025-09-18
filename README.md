@@ -38,14 +38,14 @@ Currently working on projects involving language processing pipelines and data h
 <div style="display: flex; flex-direction: column;">
     <div align="center" style="flex: 1">
         <img
-            src="https://github-profile-stats-from-anuraghaz.vercel.app/api?username=Delasi-Richards&theme=transparent&show_icons=true&hide=stars&show=prs_merged,prs_merged_percentage&card_width=100&rank_icon=github"
+            src="https://github-profile-stats-from-anuraghaz.vercel.app/api?username=Delasi-Richards&theme=transparent&show_icons=true&hide=stars&show=prs_merged,prs_merged_percentage&card_width=500&rank_icon=github"
             style="width: 50%"
             alt="Delasi Richards' GitHub Stats
         />
     </div>
     <div align="center" style="flex: 1">
         <img
-            src="https://github-profile-stats-from-anuraghaz.vercel.app/api/top-langs/?username=Delasi-Richards&theme=transparent&layout=compact&card_width=100&size_weight=0.5&count_weight=0.5"
+            src="https://github-profile-stats-from-anuraghaz.vercel.app/api/top-langs/?username=Delasi-Richards&theme=transparent&layout=compact&card_width=400&size_weight=0.5&count_weight=0.5"
             style="width: 50%"
             alt="Delasi Richards' Top Languages"
         />
