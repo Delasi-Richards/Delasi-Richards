@@ -34,13 +34,27 @@ Currently working on projects involving language processing pipelines and data h
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 # Activity
-<div align="center" styles="margin:10">
-    <img src="https://github-profile-stats-from-anuraghaz.vercel.app/api?username=Delasi-Richards&theme=transparent&show_icons=true&hide=stars&show=prs_merged,prs_merged_percentage&card_width=600&rank_icon=github" />
-</div>
-<div align="center" styles="margin:10">
-    <img src="https://github-profile-stats-from-anuraghaz.vercel.app/api/top-langs/?username=Delasi-Richards&theme=transparent&layout=compact&card_width=300&size_weight=0.5&count_weight=0.5" />
-</div>
-<!-- <div align="center" styles="margin:10">
-    <img src="https://streak-stats.demolab.com?user=Delasi-Richards&theme=transparent&short_numbers=true&date_format=j%20M%5B%20Y%5D" />
-</div> -->
 
+<div style="display: flex; flex-direction: column;">
+    <div align="center" style="flex: 1">
+        <img
+            src="https://github-profile-stats-from-anuraghaz.vercel.app/api?username=Delasi-Richards&theme=transparent&show_icons=true&hide=stars&show=prs_merged,prs_merged_percentage&card_width=100&rank_icon=github"
+            style="width: 50%"
+            alt="Delasi Richards' GitHub Stats
+        />
+    </div>
+    <div align="center" style="flex: 1">
+        <img
+            src="https://github-profile-stats-from-anuraghaz.vercel.app/api/top-langs/?username=Delasi-Richards&theme=transparent&layout=compact&card_width=100&size_weight=0.5&count_weight=0.5"
+            style="width: 50%"
+            alt="Delasi Richards' Top Languages"
+        />
+    </div>
+    <div align="center" style="flex: 1">
+        <img
+            src="https://github-readme-streak-stats-eight.vercel.app/?user=Delasi-Richards&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly"
+            style="width: 50%"
+            alt="Delasi Richards' Streak Stats"
+        />
+    </div>
+</div>
