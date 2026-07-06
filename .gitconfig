@@ -1,0 +1,24 @@
+[user]
+	name = Delasi-Richards
+	email = delasi.richards@gmail.com
+[init]
+	defaultbranch = main
+[core]
+	autocrlf = true
+	filemode = false
+[color]
+    ui = auto
+[push]
+    default = current 
+[alias]
+    cm = commit -m
+    cma = "!git add .; git commit -m"
+    st = status --ignored --show-stash
+    branches = branch -a
+    po = push origin
+    lg =  log -n 10 --pretty=format:'%Cred%h%Creset: %s %C(yellow)%>|(110,trunc)%d%Creset%n    %C(bold blue)Author: <%an>%Creset   %C(magenta)Date: <%aD>%Creset%n' --graph
+    lg-all =  log --all --pretty=format:'%Cred%h%Creset: %s %C(yellow)%>|(110,trunc)%d%Creset%n    %C(bold blue)Author: <%an>%Creset   %C(magenta)Date: <%aD>%Creset%n' --graph
+    lg-long = lg-all --compact-summary
+    difff = diff --stat 
+    progress = "!echo -e ' \\033[1;32m Files Changed: \\033[0m '; git status -s --show-stash; echo -e '\n \\033[1;32m Details: \\033[0m '; git diff --stat"
+    progress-long = "!echo -e ' \\033[1;32m Files Changed: \\033[0m '; git status -s --show-stash; echo -e '\n \\033[1;32m Details: \\033[0m '; git diff"
