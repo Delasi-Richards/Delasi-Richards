@@ -6,6 +6,7 @@
 [core]
 	autocrlf = true
 	filemode = false
+	pager = 
 [color]
     ui = auto
 [push]
@@ -16,6 +17,8 @@
     st = status --ignored --show-stash
     branches = branch -a
     po = push origin
+    pa = push origin --all
+    pr = merge --no-ff
     lg =  log -n 10 --pretty=format:'%Cred%h%Creset: %s %C(yellow)%>|(110,trunc)%d%Creset%n    %C(bold blue)Author: <%an>%Creset   %C(magenta)Date: <%aD>%Creset%n' --graph
     lg-all =  log --all --pretty=format:'%Cred%h%Creset: %s %C(yellow)%>|(110,trunc)%d%Creset%n    %C(bold blue)Author: <%an>%Creset   %C(magenta)Date: <%aD>%Creset%n' --graph
     lg-long = lg-all --compact-summary
